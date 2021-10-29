@@ -1,2 +1,2 @@
 [webservers]
-3.17.180.181 ansible_user=ubuntu
+3.17.180.181 ansible_user= ec2-user
